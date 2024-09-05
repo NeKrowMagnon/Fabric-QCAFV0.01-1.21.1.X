@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "qcaf",
+	"version": "${version}",
+	"name": "QCAF (Quality Changes and Features)",
+	"description": "This is an experimental mod designed to implement quality changes and features to Minecraft that feel friendly to a vanilla experience.",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/qcaf/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.nekrowmagnon.qcaf.QCAF"
+		],
+		"fabric-datagen": [
+			"net.nekrowmagnon.qcaf.QCAFDataGenerator"
+		],
+		"client": [
+			"net.nekrowmagnon.qcaf.QCAFClient"
+		]
+	},
+	"mixins": [
+		"qcaf.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.4",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
