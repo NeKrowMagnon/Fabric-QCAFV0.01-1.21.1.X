@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "qcaf:block/withering_sculk"
+      },
+      {
+        "model": "qcaf:block/withering_sculk_mirrored"
+      },
+      {
+        "model": "qcaf:block/withering_sculk",
+        "y": 180
+      },
+      {
+        "model": "qcaf:block/withering_sculk_mirrored",
+        "y": 180
+      }
+    ]
+  }
+}

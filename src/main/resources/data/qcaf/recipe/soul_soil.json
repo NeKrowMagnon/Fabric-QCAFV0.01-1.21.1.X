@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "W": {
+      "item": "qualitytweaks:withering_sculk_remnant"
+    },
+    "D": {
+      "item": "minecraft:dirt"
+    }
+  },
+  "pattern": [
+    "WD",
+    "DW"
+  ],
+  "result": {
+    "count": 2,
+    "id": "minecraft:soul_soil"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "item.qcaf.sculk_remnant": "Sculk Remnant",
+  "item.qcaf.withering_sculk_remnant": "Withering Sculk Remnant",
+  "item.qcaf.calcifying_sculk_remnant": "Calcifying Sculk Remnant",
+
+  "block.qcaf.shulk_polyp": "Shulk Polyp",
+  "block.qcaf.shulk_calyx": "Shulk Calyx",
+  "block.qcaf.withering_sculk": "Withering Sculk",
+  "block.qcaf.withering_sculk_catalyst": "Withering Sculk Catalyst",
+
+  "itemgroup.qcaf.reformed_blocks": "QCAF Blocks",
+  "itemgroup.qcaf.reformed_items": "QCAF Items",
+
+  "tooltip.qcaf.withering_sculk_catalyst.tooltip": "This block §9WILL CRASH YOUR GAME!§r",
+
+  "tooltip.qcaf.withering_sculk_remnant.shift_down": "Converts applicable target block into withering sculk.",
+  "tooltip.qcaf.withering_sculk_remnant": "Press §eShift§r for more information.",
+  "tooltip.qcaf.calcifying_sculk_remnant": "WIP"
+}
